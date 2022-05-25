@@ -1,0 +1,6 @@
+*.xml
+*.kicad_pcb-bak
+PCB/GSLeaf-backups/
+PCB/rescue-backup/
+PCB/GSLeaf.ses
+PCB/GSLeaf-rescue.lib
